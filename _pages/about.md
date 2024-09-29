@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University. I am fortunate to be advised by [Prof. Guosheng Lin](https://guosheng.github.io/) and affiliated with the [S-Lab](https://www.ntu.edu.sg/s-lab).
+I am currently a Ph.D. student at Lee Kong Chian School of Business, Singapore Management University. 
 
-Previously, I got my bachelor's degree in Artificial Intellegence from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023, with an honors degree from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm). During my undergraduate, I was privileged to work with [Prof. Xiaowei Zhou](http://xzhou.me/) and [Prof. Chunhua Shen](https://cshen.github.io/).
+Previously, I got my bachelor's degree in Economics from [Nanjing University](https://www.nju.edu.cn/en/) in 2023 and my master's degree in Finance from [Nanyang Technological University](https://www.ntu.edu.sg/)
 
-My research lies at human-centered perception and generation algorithms. Specifically, I'm currently interested in human motion capture.
+My research interests include supply chain management, online platform operations management.
