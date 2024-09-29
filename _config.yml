@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenhao Shen"
+  name             : "Zheqi Jiang"
   avatar           : "profile.jpg"
-  bio              : "PhD student, Nanyang Technological University"
+  bio              : "PhD student, Singapore Management University"
   location         : "Singapore"
-  employer         : "S-Lab, NTU"
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=F0UvaMwAAAAJ"
-  email            : "wenhao005@e.ntu.edu.sg"
+  googlescholar    : 
+  email            : "zheqi.jiang.2024@pbs.smu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shenwenhao01"
+  github           : "zheqijiang"
   google_plus      :
   keybase          :
   instagram        :
